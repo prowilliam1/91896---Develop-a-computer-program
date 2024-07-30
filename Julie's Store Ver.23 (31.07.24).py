@@ -1,6 +1,6 @@
-#Author/Creator: William Lee
-#Date 31/07/24
-#Create a party hire & return store for Julie
+# Date: 31/07/24
+# Author: William Lee
+# Purpose: to create a code for borrowing party items from Julie's store. 91896 Achievement standard
 
 from tkinter import *
 from tkinter import ttk
