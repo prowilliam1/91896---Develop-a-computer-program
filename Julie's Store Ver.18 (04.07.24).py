@@ -1,3 +1,7 @@
+# Date: 04/07/24
+# Author: William Lee
+# Purpose: to create a code for borrowing party items from Julie's store. 91896 Achievement standard
+
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
